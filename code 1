@@ -1,5 +1,3 @@
-// Merci à Yohan pour la création de ce code simplifié !
-
 // initiaisation des différentes pattes de l'arduino
 
 int ledPin = 5;       // la patte 5 de l'arduino s'appelle désormais ledPin               
